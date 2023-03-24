@@ -17,4 +17,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ## Deployed Link
+https://jason-kodama.github.io/Jasons-Work-Day-Scheduler/
 ## Screen Shot
+![image](https://user-images.githubusercontent.com/124485518/227633596-abfe1180-2e95-44d5-b193-f4df0928ff86.png)
+
